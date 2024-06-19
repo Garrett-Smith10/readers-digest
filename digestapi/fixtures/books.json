@@ -1,0 +1,68 @@
+[
+    {
+        "model": "digestapi.book",
+        "pk": 1,
+        "fields": {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isbn_number": "1234567890123",
+            "cover_image": "http://example.com/images/great_gatsby.jpg",
+            "user_id": 1
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 2,
+        "fields": {
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "isbn_number": "2345678901234",
+            "cover_image": "http://example.com/images/moby_dick.jpg",
+            "user_id": 2
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 3,
+        "fields": {
+            "title": "1984",
+            "author": "George Orwell",
+            "isbn_number": "3456789012345",
+            "cover_image": "http://example.com/images/1984.jpg",
+            "user_id": 3
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 4,
+        "fields": {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "isbn_number": "4567890123456",
+            "cover_image": "http://example.com/images/mock.jpg",
+            "user_id": 4
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 5,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "isbn_number": "5678901234567",
+            "cover_image": "http://example.com/images/catcher.jpg",
+            "user_id": 5
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 6,
+        "fields": {
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "isbn_number": "6789012345678",
+            "cover_image": "http://example.com/images/brave_new_world.jpg",
+            "user_id": 6
+        }
+    }
+]
